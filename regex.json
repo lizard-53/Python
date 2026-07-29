@@ -1,0 +1,5 @@
+{
+
+    "email_extract_pattern": "[\\w\\.-]+@[\\w\\.-]+\\.\\w+",
+    "phone_extract_pattern": "(?:(?:\\+44\\s?|0)(?:\\d\\s?){9,10})"
+}
