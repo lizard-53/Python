@@ -1,4 +1,7 @@
-# Test upload to Github
+# Email Extracter.
+# Uses regex commands stored in regex.json
+# to search for key data within an input
+# such as a document or scraped data, etc. 
 
 import json
 import re
