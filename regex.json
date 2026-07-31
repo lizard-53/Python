@@ -1,5 +1,5 @@
 {
 
-    "email_extract_pattern": "[\\w\\.-]+@[\\w\\.-]+\\.\\w+",
-    "phone_extract_pattern": "(?:(?:\\+44\\s?|0)(?:\\d\\s?){9,10})"
+    "email_extract_pattern": "\\b[\\w\\.-]+@[\\w\\.-]+\\.\\w+\\b",
+    "uk_phone_extract_pattern": "(?:(?:\\+44\\s?|\\b0)(?:\\d\\s?){9,10}\\b)"
 }
